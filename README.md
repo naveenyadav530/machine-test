@@ -1,6 +1,11 @@
+
 # Flutter Todo Application
 
 This Flutter application is a Todo app that incorporates the Bloc pattern, Hive database for local storage, and follows the Clean Architecture principles. The app is designed to work seamlessly in both offline and online modes, providing a reliable Todo management experience.
+![image](https://github.com/naveenyadav530/machine-test/assets/48934200/d03fa65b-f6d7-40e6-8d98-7fe98a2c0c4c)
+![image](https://github.com/naveenyadav530/machine-test/assets/48934200/4cf3502f-dad1-42f1-b287-d0b6fad80892)
+![image](https://github.com/naveenyadav530/machine-test/assets/48934200/06227d41-3500-49c8-b346-7246a2c49507)
+![image](https://github.com/naveenyadav530/machine-test/assets/48934200/c6cc36d4-e05a-4f99-9539-dcae30492ce6)
 
 ## Features
 
