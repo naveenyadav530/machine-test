@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "508836945607",
+    "project_id": "machine-test-aeab1",
+    "storage_bucket": "machine-test-aeab1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508836945607:android:6671a90444ca6f54f4e8e2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_hive_tdo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9qDEf18torIYrOZ-LVldH96Q5vDdFj-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
